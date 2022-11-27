@@ -14,6 +14,9 @@
  - "react-router-dom": "^6.4.3",
  - "react-scripts": "5.0.1",
 
+### Rutas Implementadas 
+  ![imagen](https://user-images.githubusercontent.com/64711241/204117511-a9ce5fe5-b0ec-4999-97e0-c3888cda459b.png)
+
 
 
 ## Error conexion a  base de datos del Backend para versiones posteriores de JDK 8
