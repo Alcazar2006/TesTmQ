@@ -1,25 +1,19 @@
-# AlbumMultimedia-inacif
-## Frontend
-- React: 18.2.0
-- Nodejs: 16.13.1
-- Npm: 8.1.2
+## FrontEnd - ReactJS 
+# Paquetes Implementados 
+ - "@emotion/react": "^11.10.5",
+ - "@emotion/styled": "^11.10.5",
+ - "@fontsource/roboto": "^4.5.8",
+ - "@mui/icons-material": "^5.10.15",
+ - "@mui/material": "^5.10.15",
+ - "@testing-library/jest-dom": "^5.16.5",
+ - "@testing-library/react": "^13.4.0",
+ - "@testing-library/user-event": "^13.5.0",
+ - "axios": "^1.2.0",
+ - "react": "^18.2.0",
+ - "react-dom": "^18.2.0",
+ - "react-router-dom": "^6.4.3",
+ - "react-scripts": "5.0.1",
 
-## Backend
-- Apache Maven: 3.8.4 
-- Spring Boot: 2.6.13
-- JDK: 17.0.5
-
-## IDEs
-- Visual Studio Code 
-
-## Backend
-- JDK: jdk-8
-- 
-## Base de datos TSQL
--  SQL Server 2015
-- Usuario:
-  - usuario: user1
-  - password: 1234
 
 
 ## Error conexion a  base de datos del Backend para versiones posteriores de JDK 8
