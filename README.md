@@ -9,12 +9,18 @@
 - Spring Boot: 2.6.13
 - JDK: 17.0.5
 
-### CREAR CARPETA DIST
-- ng build --configuration=production
-    - archivos para disploy en dist/AlbumMultimedia
+## IDEs
+- Visual Studio Code 
 
 ## Backend
 - JDK: jdk-8
+- 
+## Base de datos TSQL
+-  SQL Server 2015
+- Usuario:
+  - usuario: user1
+  - password: 1234
+
 
 ## Error conexion a  base de datos del Backend para versiones posteriores de JDK 8
 ###### La base de datos de 172.16.0.19,45250 usa un formato tls1.0 desactualizado que  el JDK bloquea, para poder correr bien la app hay que modificar el archivo:  \jdk-11.0.12\conf\security\java.security
