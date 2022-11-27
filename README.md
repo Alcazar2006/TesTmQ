@@ -1,6 +1,6 @@
 ## ResponseMessage
-#### Todas las peticiones que recibe el backend retornaran un objeto de tipo responseMessage en el cual se identificaron los siguientes atributos:
- - Object data: Toda información que sea enviada para sus posterior uso (select,update,etc)
+#### Todas las peticiones retornaran un objeto de tipo ResponseMessage; en el cual se identifican los siguientes atributos:
+ - Object data: Toda información que sea enviada para sus posterior uso (resultados de select,update,etc)
  - boolean Valid: Si la petición fue correcta o existió algún error.
  - String msg: mensaje de error o petición correcta. 
 
