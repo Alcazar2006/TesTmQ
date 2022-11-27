@@ -6,6 +6,9 @@ Hook para actualizar la lista de cuentas bancarias cuando se escriba en el compo
 
 ![imagen](https://user-images.githubusercontent.com/64711241/204117745-856e0168-816b-46ce-b20d-deab64c29926.png)
 
+![imagen](https://user-images.githubusercontent.com/64711241/204117769-2664820c-cfa8-46bf-a54c-ade322dfc7d6.png)
+
+
 
 
 
