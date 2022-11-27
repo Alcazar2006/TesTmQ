@@ -8,11 +8,13 @@
  - AlertComponent: Componente para gestionar los mensajes de alert del sistema.
 
 ### AddChequeraComponent
-Hooks para el manejo del estados del component autocomplete
+Hooks para el manejo de los estados del componente autocomplete
 
 ![imagen](https://user-images.githubusercontent.com/64711241/204117580-20772be0-2f6b-4c68-8030-2242f88fb7e6.png)
 
+Hook para actualizar la lista de usuario cuando se escriba en el componente de autocomplete de usuarios
 
+![imagen](https://user-images.githubusercontent.com/64711241/204117612-97094271-86fa-4cf9-8e03-1e96e020287e.png)
 
 
 ## Error conexion a  base de datos del Backend para versiones posteriores de JDK 8
