@@ -1,28 +1,11 @@
 
-### Componentes
- - AddChequeraComponent: Componente dialog que permitirá agregar chequeras en base a un usuario y/o cuenta de banco.
- - DeleteComponent: Componente dialog que permitirá eliminar chequeras que se encuentren en el estado de “En proceso”.
- - DeleteChequeraComponent: Componente dialog que permitirá eliminar chequeras que se encuentren en el estado de “En proceso”.
- - EditChequeraComponent:  Componente dialog que permitirá eliminar chequeras que se encuentren en el estado de “En proceso”.
- - Gestion: Componente dialog que permitirá eliminar chequeras que se encuentren en el estado de “En proceso”.
- - AlertComponent: Componente para gestionar los mensajes de alert del sistema.
-
-### AddChequeraComponent
-Hooks para el manejo de los estados del componente autocomplete
-
-![imagen](https://user-images.githubusercontent.com/64711241/204117580-20772be0-2f6b-4c68-8030-2242f88fb7e6.png)
-
-Hook para actualizar la lista de usuarios cuando se escriba en el componente de autocomplete de usuarios
-
-![imagen](https://user-images.githubusercontent.com/64711241/204117612-97094271-86fa-4cf9-8e03-1e96e020287e.png)
-
-![imagen](https://user-images.githubusercontent.com/64711241/204117638-2a172007-146e-454b-bc8a-cb054c02585d.png)
-
-![imagen](https://user-images.githubusercontent.com/64711241/204117656-888c0e1f-d30a-4bc8-91c5-22660321ac72.png)
 
 Hook para actualizar la lista de cuentas bancarias cuando se escriba en el componente de autocomplete de cuenta bancaria o se seleccione un usuario.
 
 ![imagen](https://user-images.githubusercontent.com/64711241/204117693-46f72450-b98e-4741-a894-23bb6d656a7f.png)
+
+![imagen](https://user-images.githubusercontent.com/64711241/204117745-856e0168-816b-46ce-b20d-deab64c29926.png)
+
 
 
 
