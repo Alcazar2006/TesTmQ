@@ -14,8 +14,41 @@ Función para guardar la chequera
 
 ![imagen](https://user-images.githubusercontent.com/64711241/204117839-5ee1cba5-7f2a-4d06-bb9d-4af0368cab03.png)
 
+![imagen](https://user-images.githubusercontent.com/64711241/204118099-7c693927-082f-4e5e-9310-a17f86bf899f.png)
 
 
+
+
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.microsoft.sqlserver</groupId>
+            <artifactId>mssql-jdbc</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+    </dependencies>
 
 
 
