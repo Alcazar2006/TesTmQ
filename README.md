@@ -7,6 +7,8 @@
  - Gestion: Componente dialog que permitirá eliminar chequeras que se encuentren en el estado de “En proceso”.
  - AlertComponent: Componente para gestionar los mensajes de alert del sistema.
 
+### AddChequeraComponent
+Hooks para el manejo de estado para el manejo de component select-search
 
 
 
