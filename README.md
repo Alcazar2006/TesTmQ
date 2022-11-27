@@ -1,8 +1,13 @@
 # AlbumMultimedia-inacif
 ## Frontend
-- Angular: 12.0.5
-- Nodejs: 14.15.5
-- Npm: 6.14.11
+- React: 18.2.0
+- Nodejs: 16.13.1
+- Npm: 8.1.2
+
+## Backend
+- Apache Maven: 3.8.4 
+- Spring Boot: 2.6.13
+- JDK: 17.0.5
 
 ### CREAR CARPETA DIST
 - ng build --configuration=production
