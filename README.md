@@ -1,21 +1,12 @@
-## FrontEnd - ReactJS 
-### Paquetes Implementados 
- - "@emotion/react": "^11.10.5",
- - "@emotion/styled": "^11.10.5",
- - "@fontsource/roboto": "^4.5.8",
- - "@mui/icons-material": "^5.10.15",
- - "@mui/material": "^5.10.15",
- - "@testing-library/jest-dom": "^5.16.5",
- - "@testing-library/react": "^13.4.0",
- - "@testing-library/user-event": "^13.5.0",
- - "axios": "^1.2.0",
- - "react": "^18.2.0",
- - "react-dom": "^18.2.0",
- - "react-router-dom": "^6.4.3",
- - "react-scripts": "5.0.1",
 
-### Rutas Implementadas 
-  ![imagen](https://user-images.githubusercontent.com/64711241/204117511-a9ce5fe5-b0ec-4999-97e0-c3888cda459b.png)
+### Componentes
+ - AddChequeraComponent: Componente dialog que permitirá agregar chequeras en base a un usuario y/o cuenta de banco.
+ - DeleteComponent: Componente dialog que permitirá eliminar chequeras que se encuentren en el estado de “En proceso”.
+ - DeleteChequeraComponent: Componente dialog que permitirá eliminar chequeras que se encuentren en el estado de “En proceso”.
+ - EditChequeraComponent:  Componente dialog que permitirá eliminar chequeras que se encuentren en el estado de “En proceso”.
+ - Gestion: Componente dialog que permitirá eliminar chequeras que se encuentren en el estado de “En proceso”.
+ - AlertComponent: Componente para gestionar los mensajes de alert del sistema.
+
 
 
 
