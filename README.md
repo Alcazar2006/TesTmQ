@@ -15,6 +15,10 @@ Hooks para el manejo de los estados del componente autocomplete
 Hook para actualizar la lista de usuario cuando se escriba en el componente de autocomplete de usuarios
 
 ![imagen](https://user-images.githubusercontent.com/64711241/204117612-97094271-86fa-4cf9-8e03-1e96e020287e.png)
+![imagen](https://user-images.githubusercontent.com/64711241/204117638-2a172007-146e-454b-bc8a-cb054c02585d.png)
+![imagen](https://user-images.githubusercontent.com/64711241/204117656-888c0e1f-d30a-4bc8-91c5-22660321ac72.png)
+
+
 
 
 ## Error conexion a  base de datos del Backend para versiones posteriores de JDK 8
