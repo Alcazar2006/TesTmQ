@@ -1,20 +1,9 @@
+## ResponseMessage
+#### Todas las peticiones que recibe el backend retornaran un objeto de tipo responseMessage en el cual se identificaron los siguientes atributos:
+ - Object data: Toda información que sea enviada para sus posterior uso (select,update,etc)
+ - boolean Valid: Si la petición fue correcta o existió algún error.
+ - String msg: mensaje de error o petición correcta. 
 
-
-Hook para actualizar la lista de cuentas bancarias cuando se escriba en el componente de autocomplete de cuenta bancaria o se seleccione un usuario.
-
-![imagen](https://user-images.githubusercontent.com/64711241/204117693-46f72450-b98e-4741-a894-23bb6d656a7f.png)
-
-![imagen](https://user-images.githubusercontent.com/64711241/204117745-856e0168-816b-46ce-b20d-deab64c29926.png)
-
-![imagen](https://user-images.githubusercontent.com/64711241/204117769-2664820c-cfa8-46bf-a54c-ade322dfc7d6.png)
-
-Función para guardar la chequera
- 
-![imagen](https://user-images.githubusercontent.com/64711241/204117822-8d9951f4-2475-4494-9909-e589d94e1467.png)
-
-![imagen](https://user-images.githubusercontent.com/64711241/204117839-5ee1cba5-7f2a-4d06-bb9d-4af0368cab03.png)
-
-![imagen](https://user-images.githubusercontent.com/64711241/204118099-7c693927-082f-4e5e-9310-a17f86bf899f.png)
 
 
 
