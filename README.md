@@ -8,6 +8,12 @@ Hook para actualizar la lista de cuentas bancarias cuando se escriba en el compo
 
 ![imagen](https://user-images.githubusercontent.com/64711241/204117769-2664820c-cfa8-46bf-a54c-ade322dfc7d6.png)
 
+Función para guardar la chequera
+ 
+![imagen](https://user-images.githubusercontent.com/64711241/204117822-8d9951f4-2475-4494-9909-e589d94e1467.png)
+
+![imagen](https://user-images.githubusercontent.com/64711241/204117839-5ee1cba5-7f2a-4d06-bb9d-4af0368cab03.png)
+
 
 
 
